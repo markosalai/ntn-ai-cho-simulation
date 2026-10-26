@@ -1,0 +1,13 @@
+,AI-CHO (trošak 20),AI-CHO-U (trošak 5)
+AUC (redak = kandidat),1.0,1.0
+F1 (redak = kandidat),0.993,0.991
+Točnost odluke (odabran isti satelit kao idealna odluka),0.995,0.991
+Uravnotežena točnost odluke,0.526,0.532
+Odziv za odluke o primopredaji,0.053,0.064
+Preciznost za odluke o primopredaji,0.484,0.416
+Udio odluka za primopredaju: idealno [%],0.545,0.846
+Udio odluka za primopredaju: model [%],0.06,0.13
+"Vrijeme zaključivanja po odluci, medijan [ms]",0.131,0.143
+"Vrijeme zaključivanja po odluci, 95. percentil [ms]",0.21,0.229
+Vrijeme treniranja [s],10.135,11.089
+Broj redaka za treniranje,566954.0,567060.0

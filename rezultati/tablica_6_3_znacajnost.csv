@@ -1,0 +1,55 @@
+metrika,usporedba,srednja_razlika,bolji_u_scenarija,p,znacajno
+Primopredaje po korisniku [1/min],AI-CHO − A3,-0.1505,10/10,0.002,da
+Primopredaje po korisniku [1/min],AI-CHO − D1-CHO,-0.1952,10/10,0.002,da
+Primopredaje po korisniku [1/min],AI-CHO − Rezerva,0.0608,0/10,0.002,da
+Primopredaje po korisniku [1/min],AI-CHO-U − A3,-0.0638,9/10,0.0039,da
+Primopredaje po korisniku [1/min],AI-CHO-U − D1-CHO,-0.1085,10/10,0.002,da
+Primopredaje po korisniku [1/min],AI-CHO-U − Rezerva,0.1475,0/10,0.002,da
+Ping-pong primopredaje [%],AI-CHO − A3,-0.2846,9/10,0.0098,da
+Ping-pong primopredaje [%],AI-CHO − D1-CHO,-1.3856,10/10,0.002,da
+Ping-pong primopredaje [%],AI-CHO − Rezerva,0.1742,3/10,0.0547,ne
+Ping-pong primopredaje [%],AI-CHO-U − A3,-0.4048,9/10,0.0273,da
+Ping-pong primopredaje [%],AI-CHO-U − D1-CHO,-1.5058,10/10,0.002,da
+Ping-pong primopredaje [%],AI-CHO-U − Rezerva,0.054,5/10,0.625,ne
+Ping-pong uz prag 10 s [%],AI-CHO − A3,-1.2377,8/10,0.0195,da
+Ping-pong uz prag 10 s [%],AI-CHO − D1-CHO,-1.8694,9/10,0.0059,da
+Ping-pong uz prag 10 s [%],AI-CHO − Rezerva,0.2601,4/10,0.2754,ne
+Ping-pong uz prag 10 s [%],AI-CHO-U − A3,-1.0496,7/10,0.0273,da
+Ping-pong uz prag 10 s [%],AI-CHO-U − D1-CHO,-1.6813,9/10,0.0059,da
+Ping-pong uz prag 10 s [%],AI-CHO-U − Rezerva,0.4482,5/10,0.2324,ne
+Ping-pong uz prag 30 s [%],AI-CHO − A3,-2.0041,9/10,0.0059,da
+Ping-pong uz prag 30 s [%],AI-CHO − D1-CHO,-3.0604,10/10,0.002,da
+Ping-pong uz prag 30 s [%],AI-CHO − Rezerva,0.449,3/10,0.1602,ne
+Ping-pong uz prag 30 s [%],AI-CHO-U − A3,-0.8219,6/10,0.084,ne
+Ping-pong uz prag 30 s [%],AI-CHO-U − D1-CHO,-1.8781,9/10,0.0039,da
+Ping-pong uz prag 30 s [%],AI-CHO-U − Rezerva,1.6313,0/10,0.002,da
+Prekidi veze RLF po korisniku [1/min],AI-CHO − A3,0.0038,1/10,0.0098,da
+Prekidi veze RLF po korisniku [1/min],AI-CHO − D1-CHO,-0.0315,10/10,0.002,da
+Prekidi veze RLF po korisniku [1/min],AI-CHO − Rezerva,-0.01,10/10,0.002,da
+Prekidi veze RLF po korisniku [1/min],AI-CHO-U − A3,-0.0008,3/10,0.5,ne
+Prekidi veze RLF po korisniku [1/min],AI-CHO-U − D1-CHO,-0.036,10/10,0.002,da
+Prekidi veze RLF po korisniku [1/min],AI-CHO-U − Rezerva,-0.0145,10/10,0.002,da
+Neuspjele primopredaje HOF [1/min],AI-CHO − A3,-0.001,3/10,0.25,ne
+Neuspjele primopredaje HOF [1/min],AI-CHO − D1-CHO,-0.0362,10/10,0.002,da
+Neuspjele primopredaje HOF [1/min],AI-CHO − Rezerva,0.0,0/10,1.0,ne
+Neuspjele primopredaje HOF [1/min],AI-CHO-U − A3,-0.001,3/10,0.25,ne
+Neuspjele primopredaje HOF [1/min],AI-CHO-U − D1-CHO,-0.0362,10/10,0.002,da
+Neuspjele primopredaje HOF [1/min],AI-CHO-U − Rezerva,0.0,0/10,1.0,ne
+Udio vremena bez upotrebljive veze [%],AI-CHO − A3,-0.061,10/10,0.002,da
+Udio vremena bez upotrebljive veze [%],AI-CHO − D1-CHO,-0.02,7/10,0.0293,da
+Udio vremena bez upotrebljive veze [%],AI-CHO − Rezerva,-0.051,10/10,0.002,da
+Udio vremena bez upotrebljive veze [%],AI-CHO-U − A3,-0.0976,10/10,0.002,da
+Udio vremena bez upotrebljive veze [%],AI-CHO-U − D1-CHO,-0.0566,10/10,0.002,da
+Udio vremena bez upotrebljive veze [%],AI-CHO-U − Rezerva,-0.0876,10/10,0.002,da
+Prosječna propusnost [Mbit/s],AI-CHO − A3,-0.1122,0/10,0.002,da
+Prosječna propusnost [Mbit/s],AI-CHO − D1-CHO,-0.5679,0/10,0.002,da
+Prosječna propusnost [Mbit/s],AI-CHO − Rezerva,0.266,10/10,0.002,da
+Prosječna propusnost [Mbit/s],AI-CHO-U − A3,0.1971,10/10,0.002,da
+Prosječna propusnost [Mbit/s],AI-CHO-U − D1-CHO,-0.2586,0/10,0.002,da
+Prosječna propusnost [Mbit/s],AI-CHO-U − Rezerva,0.5754,10/10,0.002,da
+Prosječni SNR [dB],AI-CHO − A3,-0.1263,0/10,0.002,da
+Prosječni SNR [dB],AI-CHO − D1-CHO,-0.6636,0/10,0.002,da
+Prosječni SNR [dB],AI-CHO − Rezerva,0.3166,10/10,0.002,da
+Prosječni SNR [dB],AI-CHO-U − A3,0.2367,10/10,0.002,da
+Prosječni SNR [dB],AI-CHO-U − D1-CHO,-0.3006,0/10,0.002,da
+Prosječni SNR [dB],AI-CHO-U − Rezerva,0.6796,10/10,0.002,da
