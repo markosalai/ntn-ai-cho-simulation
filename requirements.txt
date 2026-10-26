@@ -1,0 +1,9 @@
+# Inačice s kojima su dobiveni rezultati u radu (prepisati iz rezultati/verzije.txt)
+# Python [X.Y.Z]
+numpy==[X.Y.Z]
+pandas==[X.Y.Z]
+scikit-learn==[X.Y.Z]
+scipy==[X.Y.Z]
+matplotlib==[X.Y.Z]
+# za lokalno pokretanje bilježnice
+notebook
